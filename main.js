@@ -11,6 +11,7 @@ MyClass.prototype = {
         console.log('Welcome home on dev branch');
         console.log('Gagou 1');
         console.log('Gagou 2');
+        console.log('Gagou 3');
     }
 
 };
