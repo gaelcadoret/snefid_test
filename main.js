@@ -8,7 +8,7 @@ MyClass.prototype = {
 
     init: function() {
         console.log("[MyClass] init()");
-        console.log('ok');
+        console.log('Welcome home');
     }
 
 };
