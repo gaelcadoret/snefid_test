@@ -21,7 +21,8 @@ MyClass.prototype = {
         console.log('Gagou 10');
         console.log('Gagou 11');
         console.log('Gagou 12');
-        console.log('Gagou 13');
+	console.log('Gagou 13');
+	console.log('Gagou 14');
     }
 
 };
