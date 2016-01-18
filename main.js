@@ -23,6 +23,7 @@ MyClass.prototype = {
         console.log('Gagou 12');
         console.log('REJEB 13'); // par exemple ;)
         console.log('Gael 14'); // par exemple ;)
+        console.log('Gael 15'); // par exemple ;)
     }
 
 };
