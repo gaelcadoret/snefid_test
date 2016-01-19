@@ -26,6 +26,7 @@ MyClass.prototype = {
         console.log('Gael 15');
         console.log('GAEL 16');
         console.log('GAEL 17');
+        console.log('GAEL 18');
     }
 
 };
