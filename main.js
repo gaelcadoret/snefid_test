@@ -24,7 +24,8 @@ MyClass.prototype = {
         console.log('REJEB 13'); // par exemple ;)
         console.log('Gael 14');
         console.log('Gael 15');
-        console.log('GAEL 15');
+        console.log('GAEL 16');
+        console.log('GAEL 17');
     }
 
 };
