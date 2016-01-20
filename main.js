@@ -11,7 +11,7 @@ MyClass.prototype = {
         console.log('Welcome home on dev branch');
         console.log('POUR MISE EN PRODUCTION AUTOMATIQUE ! Ca marche !');
         console.log('test pour environnement DEV!');
-        console.log('Hey :)')
+        console.log('Hey :)');
     }
 
 };
